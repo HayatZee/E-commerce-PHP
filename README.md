@@ -1,2 +1,1 @@
-# E-commerce-PHP
-Basic web application for products management 
+# E-commerce Products Web Application
