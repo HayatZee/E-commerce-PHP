@@ -1,0 +1,10 @@
+main{
+min-height: calc(100vh - 165px);
+}
+body{
+background-color: pink;  
+font-family: 'Balsamiq Sans', sans-serif;
+}
+.btn-shadow{
+  box-shadow: 5px 6px 2px #302929;
+}
